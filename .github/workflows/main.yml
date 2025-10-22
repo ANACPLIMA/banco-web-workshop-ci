@@ -15,7 +15,7 @@ jobs:
       API_BASE_URL: 'http://localhost:3000'
       PORT: 4000
       
-       # [acoes ou passos]
+   # [acoes ou passos]
        steps:
 
         #[projetos] (aplicacoes, projeto de teste, etc.)
